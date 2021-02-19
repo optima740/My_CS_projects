@@ -1,0 +1,11 @@
+C:\Users\Andrey\source\repos\DrawRefactoring\bin\Debug\RefactorMe.exe.config
+C:\Users\Andrey\source\repos\DrawRefactoring\bin\Debug\RefactorMe.exe
+C:\Users\Andrey\source\repos\DrawRefactoring\bin\Debug\RefactorMe.pdb
+C:\Users\Andrey\source\repos\DrawRefactoring\bin\Debug\nunit.framework.dll
+C:\Users\Andrey\source\repos\DrawRefactoring\obj\Debug\Risovatel.csprojAssemblyReference.cache
+C:\Users\Andrey\source\repos\DrawRefactoring\obj\Debug\RefactorMe.Properties.Resources.resources
+C:\Users\Andrey\source\repos\DrawRefactoring\obj\Debug\Risovatel.csproj.GenerateResource.cache
+C:\Users\Andrey\source\repos\DrawRefactoring\obj\Debug\Risovatel.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\DrawRefactoring\obj\Debug\Risovatel.csproj.CopyComplete
+C:\Users\Andrey\source\repos\DrawRefactoring\obj\Debug\RefactorMe.exe
+C:\Users\Andrey\source\repos\DrawRefactoring\obj\Debug\RefactorMe.pdb
