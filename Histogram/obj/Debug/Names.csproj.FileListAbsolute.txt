@@ -1,0 +1,11 @@
+C:\Users\Andrey\source\repos\Gistogramm\bin\Debug\names.txt
+C:\Users\Andrey\source\repos\Gistogramm\bin\Debug\Names.exe.config
+C:\Users\Andrey\source\repos\Gistogramm\bin\Debug\Names.exe
+C:\Users\Andrey\source\repos\Gistogramm\bin\Debug\Names.pdb
+C:\Users\Andrey\source\repos\Gistogramm\bin\Debug\ZedGraph.dll
+C:\Users\Andrey\source\repos\Gistogramm\bin\Debug\ZedGraph.xml
+C:\Users\Andrey\source\repos\Gistogramm\obj\Debug\Names.csprojAssemblyReference.cache
+C:\Users\Andrey\source\repos\Gistogramm\obj\Debug\Names.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\Gistogramm\obj\Debug\Names.csproj.CopyComplete
+C:\Users\Andrey\source\repos\Gistogramm\obj\Debug\Names.exe
+C:\Users\Andrey\source\repos\Gistogramm\obj\Debug\Names.pdb
